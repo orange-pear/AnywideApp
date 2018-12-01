@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "c336cc4c-58f0-f545-a6ac-97ac86434890++6233",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "c336cc4c-58f0-f545-a6ac-97ac86434890++6233" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "c336cc4c-58f0-f545-a6ac-97ac86434890++6233" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FA95E231-C8E6-478F-9B96-660027CA2E1A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "c336cc4c-58f0-f545-a6ac-97ac86434890++6233" : "BRANCH_ANYWIDEAPP_HX_P2\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "AnywideApp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "platforms\/ios\/AnywideApp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/123.57.77.66\/svn\/hengxun-tech",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "c336cc4c-58f0-f545-a6ac-97ac86434890++6233"
+    }
+  ]
+}

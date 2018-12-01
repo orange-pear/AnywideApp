@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FA95E231-C8E6-478F-9B96-660027CA2E1A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AnywideApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>c336cc4c-58f0-f545-a6ac-97ac86434890++6491</key>
+		<string>https://123.57.77.66/svn/hengxun-tech</string>
+		<key>c336cc4c-58f0-f545-a6ac-97ac86434890++8211</key>
+		<string>https://123.57.77.66/svn/hengxun-tech/15.sanhuan/02.SourceCodeLibrary/02.Development/03.ClientApp/branch/AnywideApp_hengxun</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>platforms/ios_new/AnywideApp.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>c336cc4c-58f0-f545-a6ac-97ac86434890++6491</key>
+		<string>../../../../../AnywideApp</string>
+		<key>c336cc4c-58f0-f545-a6ac-97ac86434890++8211</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>c336cc4c-58f0-f545-a6ac-97ac86434890++8211</key>
+		<string>https://123.57.77.66/svn/hengxun-tech</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://123.57.77.66/svn/hengxun-tech/15.sanhuan/02.SourceCodeLibrary/02.Development/03.ClientApp/branch/AnywideApp_hengxun/platforms/ios_new/AnywideApp.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>c336cc4c-58f0-f545-a6ac-97ac86434890++8211</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>c336cc4c-58f0-f545-a6ac-97ac86434890++6491</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AnywideApp</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>c336cc4c-58f0-f545-a6ac-97ac86434890++8211</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AnywideApp_hengxun</string>
+		</dict>
+	</array>
+</dict>
+</plist>
